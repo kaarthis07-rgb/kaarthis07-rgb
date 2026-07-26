@@ -8,7 +8,7 @@ Passionate developer building intelligent, end-to-end applications — leveragin
 * 🛠️ **Working across the full AI & Software stack:** Python, Machine Learning, NLP, REST APIs, and multi-platform client applications.
 * 📄 **My resume:** [Link to your Resume PDF]
 * 🌐 **Portfolio:** [Link to your portfolio website]
-* 💬 **How to reach me:** [Your Email or Discord handle]
+* 💬 **How to reach me:** [kaarthis07@gmail.com]
 
 ---
 
