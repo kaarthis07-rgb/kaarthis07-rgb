@@ -1,4 +1,25 @@
-## Hi there 👋
+# Hi 👋, I'm Kaarthi
+
+### AI & Software Engineer · System Architect
+
+Passionate developer building intelligent, end-to-end applications — leveraging Machine Learning, Natural Language Processing, and full-stack systems.
+
+* 🔭 **I'm currently working on JobPilot AI** — an AI-powered assistant for resume optimization, skill-gap analysis, and interview prep across Desktop and Android.
+* 🛠️ **Working across the full AI & Software stack:** Python, Machine Learning, NLP, REST APIs, and multi-platform client applications.
+* 📄 **My resume:** [Link to your Resume PDF]
+* 🌐 **Portfolio:** [Link to your portfolio website]
+* 💬 **How to reach me:** [Your Email or Discord handle]
+
+---
+
+### Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR-GITHUB-USERNAME)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=blue)
 
 <!--
 **kaarthis07-rgb/kaarthis07-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
