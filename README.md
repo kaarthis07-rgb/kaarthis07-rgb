@@ -6,7 +6,7 @@ Passionate developer building intelligent, end-to-end applications — leveragin
 
 * 🔭 **I'm currently working on JobPilot AI** — an AI-powered assistant for resume optimization, skill-gap analysis, and interview prep across Desktop and Android.
 * 🛠️ **Working across the full AI & Software stack:** Python, Machine Learning, NLP, REST APIs, and multi-platform client applications.
-* 📄 **My resume:** [Link to your Resume PDF]
+* 📄 **My resume:** [https://drive.google.com/file/d/15Vah4wW_KNlrfj1jWsoLy47Pu65E1lxZ/view?usp=drivesdk]
 * 🌐 **Portfolio:** [https://skaarthi-portfolio.netlify.app/]
 * 💬 **How to reach me:** [kaarthis07@gmail.com]
 
