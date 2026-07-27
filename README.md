@@ -23,6 +23,9 @@ Passionate developer building intelligent, end-to-end applications — leveragin
 [![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-00599C?style=for-the-badge&logo=microchip&logoColor=white)](https://github.com/kaarthis07-rgb?tab=repositories&q=embedded)
 
 [![IoT](https://img.shields.io/badge/IoT-000000?style=for-the-badge&logo=internet-of-things&logoColor=white)](https://github.com/kaarthis07-rgb?tab=repositories&q=iot)
+[![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge&logo=openapiinitiative&logoColor=white)](https://github.com/kaarthis07-rgb?tab=repositories&q=ai)
+
+[![Machine Learning](https://img.shields.io/badge/Machine_Learning-3776AB?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://github.com/kaarthis07-rgb?tab=repositories&q=machine-learning)
 
 
 ---
