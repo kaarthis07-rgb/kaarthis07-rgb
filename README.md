@@ -19,6 +19,7 @@ Passionate developer building intelligent, end-to-end applications — leveragin
 ### SKILLS:
  [![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=MathWorks&logoColor=white)](https://github.com/kaarthis07-rgb?tab=repositories&q=matlab)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/kaarthis07-rgb?tab=repositories&q=python)
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/kaarthis07-rgb?tab=repositories&q=cpp)
 
 
 ---
