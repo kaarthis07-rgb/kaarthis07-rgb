@@ -20,6 +20,9 @@ Passionate developer building intelligent, end-to-end applications — leveragin
  [![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=MathWorks&logoColor=white)](https://github.com/kaarthis07-rgb?tab=repositories&q=matlab)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/kaarthis07-rgb?tab=repositories&q=python)
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/kaarthis07-rgb?tab=repositories&q=cpp)
+[![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-00599C?style=for-the-badge&logo=microchip&logoColor=white)](https://github.com/kaarthis07-rgb?tab=repositories&q=embedded)
+
+[![IoT](https://img.shields.io/badge/IoT-000000?style=for-the-badge&logo=internet-of-things&logoColor=white)](https://github.com/kaarthis07-rgb?tab=repositories&q=iot)
 
 
 ---
